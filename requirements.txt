@@ -4,4 +4,4 @@ mongoengine==0.27.0
 packaging==23.2
 pymongo==4.6.0
 virtualenv==20.24.6
-Flask>=3.0.0
+Flask==3.0.0
